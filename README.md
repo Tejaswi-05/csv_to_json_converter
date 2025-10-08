@@ -11,8 +11,9 @@ PostgreSQL database
 
 
 Setup Process:          
-1.Clone the repository               
-  git clone https://github.com/Tejaswi-      05/csv_to_json_converter.git
+ 1.Clone the repository               
+   git clone 
+   https://github.com/Tejaswi-05/csv_to_json_converter.git.            
   cd csv_to_json_converter
 
 2. Install Dependencies:
